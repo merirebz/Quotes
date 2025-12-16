@@ -80,10 +80,6 @@ var quotes = [
 	source: "T. Roosevelt"
 	},
 	{
-	quote: "May I never be complete. May I never be content. May I never be perfect.",
-	source: "Chuck Palahniuk"
-	},
-	{
 	quote: "Nothing in life is to be feared; it is only to be understood. Now is the time to understand more so that we may fear less.",
 	source: "Marie Curie"
 	},
