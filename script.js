@@ -2,6 +2,22 @@
 
 var quotes = [
 	{
+    quote: "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+    source: "Christian D. Larson"
+	},
+	{
+    quote: "Judge yourselves before you are judged, and weigh your deeds before they are weighed for you.",
+    source: "Omar ibn Al-Khattab"
+    },
+	  {
+    quote: "Do not wait for the perfect moment. Take the moment and make it perfect.",
+    source: "Anonymous"
+   },
+	{
+    quote: "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    source: "Winston Churchill"
+   },
+	{
 	quote: "Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind.",
 	source: "Dr. Seuss"
 	},
@@ -147,6 +163,10 @@ var quotes = [
 	quote: "Love all, trust a few, do wrong to none.",
 	source: "William Shakespeare"
 	},
+	 {
+    quote: "When a man puts his trust in Allah, Allah is sufficient for him. من توكّل على الله كفاه الله",
+    source: "Omar ibn Al-Khattab"
+    },
 	{
 	quote: "Clear eyes, full hearts, can't lose.",
 	source: "Dillon Panthers",
